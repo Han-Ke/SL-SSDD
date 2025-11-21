@@ -1,4 +1,5 @@
-### What's New? 🚨📢 Call for Papers: Two Hot Special Issues in Remote Sensing & Marine Science 
+### What's New? 🚨
+📢 Call for Papers: Two Hot Special Issues in Remote Sensing & Marine Science 
 1. **Remote Sensing (MDPI)**
 - Journal: Remote Sensing 📡 (**IF≈4.8**, JCR Q1)
 - Special Issue: Advances in SAR, Optical, Hyperspectral and Infrared Remote Sensing 🌍
